@@ -649,8 +649,8 @@
       }
     },
     "vercel": {
-      "sha": "4f867228f69a48c4781ccf1bc5d2741af435cc97",
-      "version": "0.45.1",
+      "sha": "1e821f3087d6d52b06b918d39d57345e2e4f3cf8",
+      "version": "0.46.0",
       "components": {
         "agents": [
           {
@@ -704,6 +704,10 @@
           }
         ],
         "skills": [
+          {
+            "name": "access-protected-vercel-deployment",
+            "description": "Access and test Vercel deployments protected by Vercel Authentication, SSO, or Deployment Protection. Use when curl, ag…"
+          },
           {
             "name": "ai-gateway",
             "description": "Vercel AI Gateway expert guidance. Use when configuring model routing, provider failover, cost tracking, or managing mu…"
