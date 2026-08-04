@@ -69,6 +69,19 @@
       "keywords": ["superpowers"]
     },
     {
+      "name": "base44",
+      "description": "Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/base44/skills.git",
+        "sha": "0d3b72a76e91d920f4a151b68dd224510ca5dc14"
+      },
+      "homepage": "https://docs.base44.com",
+      "keywords": ["base44", "base44 cli", "base44 sdk", "base44 app", "base44 deploy"],
+      "domains": ["base44.com", "docs.base44.com"]
+    },
+    {
       "name": "mongodb",
       "description": "Official plugin for MongoDB (MCP Server + Skills). Connect to databases, explore data, manage collections, optimize queries, generate reliable code, implement best practices, develop advanced features, and more.",
       "category": "database",
@@ -105,6 +118,19 @@
       "homepage": "https://neon.com",
       "keywords": ["neon", "neon postgres", "neon database", "neon branch"],
       "domains": ["neon.tech", "neon.com", "console.neon.tech"]
+    },
+    {
+      "name": "wix",
+      "description": "Build, manage, and deploy Wix sites and apps (MCP Server + Skills). Includes CLI development skills and Wix MCP server for site management, eCommerce, CMS, dashboard extensions, and more.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/wix/skills.git",
+        "sha": "dcf56d36ef44e68579ba8d3dad6600f55fa509f0"
+      },
+      "homepage": "https://dev.wix.com/docs/api-reference/articles/ai-tools/about-wix-skills",
+      "keywords": ["wix", "wix cli", "wix mcp", "wix apps", "wix headless"],
+      "domains": ["wix.com", "dev.wix.com", "manage.wix.com"]
     },
     {
       "name": "firecrawl",

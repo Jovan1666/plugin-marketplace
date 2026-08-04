@@ -43,6 +43,34 @@
         ]
       }
     },
+    "base44": {
+      "sha": "0d3b72a76e91d920f4a151b68dd224510ca5dc14",
+      "version": "1.0.0-beta.1",
+      "components": {
+        "skills": [
+          {
+            "name": "base44-cli",
+            "description": "The base44 CLI is used for EVERYTHING related to base44 projects: resource configuration (entities, backend functions,…"
+          },
+          {
+            "name": "base44-remote-dev",
+            "description": "Develop a Base44 app remotely from your own coding agent (Claude Code, claude.ai, or any MCP client) by connecting it t…"
+          },
+          {
+            "name": "base44-sandbox",
+            "description": "Develop a Base44 app remotely inside Base44's cloud sandbox using your own agent — no local checkout and no deploy/push…"
+          },
+          {
+            "name": "base44-sdk",
+            "description": "The base44 SDK is the library to communicate with base44 services. In projects, you use it to communicate with remote r…"
+          },
+          {
+            "name": "base44-troubleshooter",
+            "description": "Troubleshoot production issues using backend function logs. Use when investigating app errors, debugging function calls…"
+          }
+        ]
+      }
+    },
     "chrome-devtools": {
       "sha": "77e1d3f9616d5b32671da0b9ea094f4929c14a9c",
       "version": "1.6.0",
@@ -827,6 +855,48 @@
           {
             "name": "workflow",
             "description": "Vercel Workflow DevKit (WDK) expert guidance. Use when building durable workflows, long-running tasks, API routes or ag…"
+          }
+        ]
+      }
+    },
+    "wix": {
+      "sha": "dcf56d36ef44e68579ba8d3dad6600f55fa509f0",
+      "version": "1.15.1",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "wix-mcp",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "wix-app",
+            "description": "Build and review Wix CLI app extensions — dashboard pages, modals, plugins, menu plugins, custom element widgets, Edito…"
+          },
+          {
+            "name": "wix-auth",
+            "description": "Authenticate with Wix to obtain an access token for calling Wix APIs. Use when an agent needs a valid Wix access token…"
+          },
+          {
+            "name": "wix-design-system",
+            "description": "Wix Design System component reference. Use when building UI with @wix/design-system, choosing components, checking prop…"
+          },
+          {
+            "name": "wix-docs",
+            "description": "Look up the Wix API/SDK documentation to confirm an exact endpoint, HTTP method, request/response shape, field, enum, o…"
+          },
+          {
+            "name": "wix-headless",
+            "description": "Connect Wix business services (Stores, Bookings, CMS, Blog, Events, Forms, and more) to a Wix Headless frontend — infer…"
+          },
+          {
+            "name": "wix-manage",
+            "description": "Wix business solution management recipes — REST API operations for configuring and managing Wix business solutions. Rou…"
+          },
+          {
+            "name": "wix-vibe-headless",
+            "description": "Client-only, dependency-free REST scaffolds for connecting an already-built front end (a vibe-coded app, an HTML/JSX/Vi…"
           }
         ]
       }
