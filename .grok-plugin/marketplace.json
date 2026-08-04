@@ -120,6 +120,19 @@
       "domains": ["neon.tech", "neon.com", "console.neon.tech"]
     },
     {
+      "name": "wix",
+      "description": "Build, manage, and deploy Wix sites and apps (MCP Server + Skills). Includes CLI development skills and Wix MCP server for site management, eCommerce, CMS, dashboard extensions, and more.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/wix/skills.git",
+        "sha": "dcf56d36ef44e68579ba8d3dad6600f55fa509f0"
+      },
+      "homepage": "https://dev.wix.com/docs/api-reference/articles/ai-tools/about-wix-skills",
+      "keywords": ["wix", "wix cli", "wix mcp", "wix apps", "wix headless"],
+      "domains": ["wix.com", "dev.wix.com", "manage.wix.com"]
+    },
+    {
       "name": "firecrawl",
       "description": "Turn any website into clean, LLM-ready markdown or structured data. Search, scrape, map, crawl, and extract live web data via the bundled hosted Firecrawl MCP server — keyless on eligible networks (1,000 free credits/month, no signup), with an optional free API key for more usage. Automatic JS rendering, anti-bot handling, and proxy rotation; CLI skills available as a fallback.",
       "category": "development",
