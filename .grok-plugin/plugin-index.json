@@ -206,8 +206,8 @@
       }
     },
     "figma": {
-      "sha": "ef474d181a6eca44b37722f839e8a7eb58d644ec",
-      "version": "2.2.87",
+      "sha": "30b6fe64af0a4b3efb75e76a99f3c96eece2457a",
+      "version": "2.2.88",
       "components": {
         "mcpServers": [
           {
@@ -473,8 +473,8 @@
       }
     },
     "stripe": {
-      "sha": "2ecd560bd426075690686536200174785c94f2b5",
-      "version": "0.3.4",
+      "sha": "70de14e5d211c85a7c557f543554fbfe05109b4e",
+      "version": "0.3.5",
       "components": {
         "agents": [
           {
