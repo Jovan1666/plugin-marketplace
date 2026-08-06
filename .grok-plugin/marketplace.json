@@ -25,7 +25,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/plugin-grok.git",
-        "sha": "f6b4882489b34b5dce8f21648286a570d56110da"
+        "sha": "40618d3da274da36b701fb3aacefed10831c0ea1"
       },
       "homepage": "https://github.com/getsentry/sentry-for-ai",
       "keywords": ["sentry"],

@@ -419,8 +419,8 @@
       }
     },
     "sentry": {
-      "sha": "f6b4882489b34b5dce8f21648286a570d56110da",
-      "version": "1.2.0",
+      "sha": "40618d3da274da36b701fb3aacefed10831c0ea1",
+      "version": "1.3.0",
       "components": {
         "mcpServers": [
           {
@@ -438,8 +438,8 @@
             "description": "Debug and fix a Sentry issue — find it (by link, ID, or search), pull full context (stack trace, breadcrumbs, trace, lo…"
           },
           {
-            "name": "sentry-feature-setup",
-            "description": "Configure specific Sentry features beyond basic SDK setup. Use when asked to monitor AI/LLM calls, set up OpenTelemetry…"
+            "name": "sentry-fix-stack-traces",
+            "description": "Make Sentry stack traces readable — upload source maps for JavaScript/TypeScript, or debug files for native and mobile…"
           },
           {
             "name": "sentry-get-started",
@@ -454,20 +454,12 @@
             "description": "Configure the OpenTelemetry Collector with Sentry Exporter for multi-project routing and automatic project creation. Us…"
           },
           {
-            "name": "sentry-sdk-upgrade",
-            "description": "Upgrade the Sentry JavaScript SDK across major versions. Use when asked to upgrade Sentry, migrate to a newer version,…"
-          },
-          {
-            "name": "sentry-setup-ai-monitoring",
-            "description": "Setup Sentry AI Agent Monitoring in any project. Use when asked to monitor LLM calls, track AI agents, track conversati…"
+            "name": "sentry-setup-releases",
+            "description": "Set up Sentry releases and deploy tracking — tag events with a version and environment, create the release in CI with i…"
           },
           {
             "name": "sentry-snapshots-cocoa",
             "description": "Full Sentry Snapshots setup for Apple/Cocoa projects. Use when asked to \"setup SnapshotPreviews\", \"setup Apple snapshot…"
-          },
-          {
-            "name": "sentry-workflow",
-            "description": "Keep Sentry SDKs up to date. Use when asked to upgrade the Sentry SDK across major versions, migrate SDK versions, or f…"
           }
         ]
       }
