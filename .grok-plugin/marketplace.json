@@ -25,7 +25,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/plugin-grok.git",
-        "sha": "f6b4882489b34b5dce8f21648286a570d56110da"
+        "sha": "40618d3da274da36b701fb3aacefed10831c0ea1"
       },
       "homepage": "https://github.com/getsentry/sentry-for-ai",
       "keywords": ["sentry"],
@@ -152,7 +152,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "c80480bbd84bf1ff24d7f27b3fda33a26ba88830"
+        "sha": "22b2c566d98880ebdb5a8e48eb2c66c596a6d990"
       },
       "homepage": "https://github.com/figma/mcp-server-guide",
       "keywords": ["figma", "figma mcp"],
@@ -191,7 +191,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/railwayapp/railway-skills.git",
-        "sha": "191601b4954527a87f4f004eaa355c8f30a855bf",
+        "sha": "5d1e97178f86c82795d6737928bd641e0552166a",
         "path": "plugins/railway"
       },
       "homepage": "https://github.com/railwayapp/railway-skills",
@@ -205,7 +205,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/stripe/ai.git",
-        "sha": "a929698fa483f392a21d46e7385ff3f6025407e6",
+        "sha": "4b7495aa701334e453555ce4afb0029b06df590b",
         "path": "providers/grok/plugin"
       },
       "homepage": "https://github.com/stripe/ai",
