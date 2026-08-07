@@ -473,8 +473,8 @@
       }
     },
     "stripe": {
-      "sha": "a929698fa483f392a21d46e7385ff3f6025407e6",
-      "version": "0.3.6",
+      "sha": "4b7495aa701334e453555ce4afb0029b06df590b",
+      "version": "0.3.7",
       "components": {
         "agents": [
           {
