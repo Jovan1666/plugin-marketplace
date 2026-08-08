@@ -465,8 +465,8 @@
       }
     },
     "stripe": {
-      "sha": "4b7495aa701334e453555ce4afb0029b06df590b",
-      "version": "0.3.7",
+      "sha": "89ffbee06b3782ed15d77ffd6cbc5620ad26d3bd",
+      "version": "0.4.0",
       "components": {
         "agents": [
           {
@@ -494,6 +494,10 @@
           {
             "name": "connect-recommend",
             "description": "Use this skill when the user asks about Stripe Connect configuration, charge patterns, Dashboard access, or how to get…"
+          },
+          {
+            "name": "stripe-apps",
+            "description": "Use when building, modifying, or reviewing a Stripe App — or when the user describes something that implies one (e.g. \"…"
           },
           {
             "name": "stripe-best-practices",
