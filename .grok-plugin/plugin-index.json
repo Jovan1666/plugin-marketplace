@@ -72,8 +72,8 @@
       }
     },
     "chrome-devtools": {
-      "sha": "77e1d3f9616d5b32671da0b9ea094f4929c14a9c",
-      "version": "1.6.0",
+      "sha": "073d4a39e9c96b17936d3cdc4bdea69977f0cca6",
+      "version": "1.7.0",
       "components": {
         "mcpServers": [
           {
