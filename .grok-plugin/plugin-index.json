@@ -673,8 +673,8 @@
       }
     },
     "vercel": {
-      "sha": "1e821f3087d6d52b06b918d39d57345e2e4f3cf8",
-      "version": "0.46.0",
+      "sha": "12d077072a7dac431c2fd4f675c2dd4627f7a196",
+      "version": "0.47.0",
       "components": {
         "agents": [
           {
@@ -839,6 +839,10 @@
           {
             "name": "vercel-sandbox",
             "description": "Vercel Sandbox guidance — ephemeral Firecracker microVMs for running untrusted code safely. Supports AI agents, code ge…"
+          },
+          {
+            "name": "vercel-services",
+            "description": "Configure and troubleshoot Vercel Services for multiple frontends and backends in one project. Use when composing a pol…"
           },
           {
             "name": "vercel-storage",
