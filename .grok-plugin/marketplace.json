@@ -25,7 +25,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/plugin-grok.git",
-        "sha": "88fc111e89dce40d1968293387c481a7412ff678"
+        "sha": "7f9d7823a68a7668867786a573ef587ef2783f7d"
       },
       "homepage": "https://github.com/getsentry/sentry-for-ai",
       "keywords": ["sentry"],
@@ -141,7 +141,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "dcf56d36ef44e68579ba8d3dad6600f55fa509f0"
+        "sha": "5593a1e2ab5ceafe56c3e76b64ed98bb5ed449bd"
       },
       "homepage": "https://dev.wix.com/docs/api-reference/articles/ai-tools/about-wix-skills",
       "keywords": ["wix", "wix cli", "wix mcp", "wix apps", "wix headless"],
