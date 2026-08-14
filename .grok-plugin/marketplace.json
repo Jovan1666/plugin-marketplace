@@ -141,7 +141,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "5593a1e2ab5ceafe56c3e76b64ed98bb5ed449bd"
+        "sha": "1c0cebc07eb52740461591e05ba1c176ee25ac6e"
       },
       "homepage": "https://dev.wix.com/docs/api-reference/articles/ai-tools/about-wix-skills",
       "keywords": ["wix", "wix cli", "wix mcp", "wix apps", "wix headless"],
