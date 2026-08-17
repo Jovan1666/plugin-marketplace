@@ -902,8 +902,8 @@
       }
     },
     "wix": {
-      "sha": "5593a1e2ab5ceafe56c3e76b64ed98bb5ed449bd",
-      "version": "1.16.0",
+      "sha": "aaec99ac7acea93013b6a831feb58467051626a6",
+      "version": "1.16.1",
       "components": {
         "mcpServers": [
           {
@@ -931,6 +931,10 @@
           {
             "name": "wix-docs",
             "description": "Look up the Wix API/SDK documentation to confirm an exact endpoint, HTTP method, request/response shape, field, enum, o…"
+          },
+          {
+            "name": "wix-docs-base44",
+            "description": "Look up Wix API/SDK documentation from inside the Base44 builder sandbox, where tool results are capped and a whole doc…"
           },
           {
             "name": "wix-headless",
