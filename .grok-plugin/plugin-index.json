@@ -715,8 +715,8 @@
       }
     },
     "vercel": {
-      "sha": "12d077072a7dac431c2fd4f675c2dd4627f7a196",
-      "version": "0.47.0",
+      "sha": "11c32588786a9d49791372657433b88d49561874",
+      "version": "0.48.0",
       "components": {
         "agents": [
           {
@@ -791,6 +791,10 @@
             "description": "Project bootstrapping orchestrator for repos that depend on Vercel-linked resources (databases, auth, and managed integ…"
           },
           {
+            "name": "build-agents",
+            "description": "Default guidance for building AI agents. Use for generic requests to build, create, scaffold, design, architect, or imp…"
+          },
+          {
             "name": "cdn-caching",
             "description": "Debug Vercel CDN caching — cache hit rate, stale content, revalidation behavior, ISR + PPR, per-request cache reasons (…"
           },
@@ -808,7 +812,7 @@
           },
           {
             "name": "eve",
-            "description": "Build durable AI agents and agent-powered applications with the eve framework. Use when creating, editing, or debugging…"
+            "description": "eve framework guidance for durable AI agents and agent-powered applications. Use when creating, editing, or debugging a…"
           },
           {
             "name": "knowledge-update",
@@ -896,7 +900,7 @@
           },
           {
             "name": "workflow",
-            "description": "Vercel Workflow DevKit (WDK) expert guidance. Use when building durable workflows, long-running tasks, API routes or ag…"
+            "description": "Vercel Workflow SDK expert guidance. Use when building durable workflows, long-running tasks, API routes or agents that…"
           }
         ]
       }
