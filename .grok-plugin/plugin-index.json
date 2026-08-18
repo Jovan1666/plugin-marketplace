@@ -503,8 +503,8 @@
       }
     },
     "stripe": {
-      "sha": "f4abb4498d2e3298c6b9e52cdd4559cebfc70a2f",
-      "version": "0.5.1",
+      "sha": "96cfe6bf30e661f674950cd8dbd47beaeadc5b6e",
+      "version": "0.5.2",
       "components": {
         "agents": [
           {
