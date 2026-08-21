@@ -770,8 +770,8 @@
       }
     },
     "stripe": {
-      "sha": "e8f9aee6f9a34a633243e632e650401a76c36c41",
-      "version": "0.5.3",
+      "sha": "453dacd48aac27d751aa3cb7e410256efb3fcfca",
+      "version": "0.5.4",
       "components": {
         "agents": [
           {
@@ -814,7 +814,7 @@
           },
           {
             "name": "stripe-directory",
-            "description": "Use when the user wants to find businesses, software, service providers, or partners for a specific industry, workflow,…"
+            "description": "Finds trusted external providers, merchants, nonprofits, platforms, APIs, and software services that can help complete…"
           },
           {
             "name": "stripe-docs",
@@ -982,8 +982,8 @@
       }
     },
     "vercel": {
-      "sha": "11c32588786a9d49791372657433b88d49561874",
-      "version": "0.48.0",
+      "sha": "c4a1c4e2e16feefb1d9f2ad2a4a451abd0ae91c6",
+      "version": "0.48.1",
       "components": {
         "agents": [
           {
@@ -1068,6 +1068,10 @@
           {
             "name": "chat-sdk",
             "description": "Vercel Chat SDK expert guidance. Use when building multi-platform chat bots — Slack, Telegram, Microsoft Teams, Discord…"
+          },
+          {
+            "name": "create-a-backend",
+            "description": "Backend architecture guidance. Use when planning, building, or migrating an API or backend; choosing between Functions,…"
           },
           {
             "name": "deployments-cicd",
