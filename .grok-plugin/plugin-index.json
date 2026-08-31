@@ -529,7 +529,7 @@
       }
     },
     "pstack": {
-      "sha": "bdf7aa355337897f167153e05069aca505dae17c",
+      "sha": "fd878692de15a3069c21c8f429eb0b9f2fe178fa",
       "components": {
         "agents": [
           {
@@ -542,6 +542,10 @@
           }
         ],
         "skills": [
+          {
+            "name": "Make Bot UI",
+            "description": "Use when building a custom UI (page, dashboard, buttons) that should wake a Grok Bot over a webhook, when the user must…"
+          },
           {
             "name": "Poteto Mode",
             "description": "poteto's agent style for concise, detailed responses, deliberate subagents, unslopped prose, simple code, and verified…"
