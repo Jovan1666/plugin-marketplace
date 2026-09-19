@@ -989,8 +989,8 @@
       }
     },
     "superpowers": {
-      "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797",
-      "version": "6.3.0",
+      "sha": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "version": "6.4.1",
       "components": {
         "hooks": [
           {
@@ -1004,12 +1004,16 @@
             "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying…"
           },
           {
+            "name": "diagnosing-superpowers",
+            "description": "Use when a superpowers session went wrong and your human partner wants to know why — repeated work, ignored plans, stum…"
+          },
+          {
             "name": "dispatching-parallel-agents",
             "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
           },
           {
             "name": "executing-plans",
-            "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints"
+            "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose…"
           },
           {
             "name": "finishing-a-development-branch",
