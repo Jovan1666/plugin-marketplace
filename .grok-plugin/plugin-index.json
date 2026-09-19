@@ -1139,8 +1139,8 @@
       }
     },
     "vercel": {
-      "sha": "b0b3b3261ce193a379d3e6d54358aa5b4a164517",
-      "version": "0.49.2",
+      "sha": "1a2a5cd21f991d816bcf9ac9184ba14a8b1cb2b8",
+      "version": "0.50.0",
       "components": {
         "agents": [
           {
@@ -1279,6 +1279,10 @@
             "description": "Next.js App Router expert guidance. Use when building, debugging, or architecting Next.js applications — routing, Serve…"
           },
           {
+            "name": "queues",
+            "description": "Vercel Queues guidance — durable topics with at-least-once delivery, independent consumer groups, retries, delays, and…"
+          },
+          {
             "name": "react-best-practices",
             "description": "React best-practices reviewer for TSX files. Triggers after editing multiple TSX components to run a condensed quality…"
           },
@@ -1300,7 +1304,7 @@
           },
           {
             "name": "vercel-agent",
-            "description": "Vercel Agent guidance — AI-powered code review, incident investigation, and SDK installation. Automates PR analysis and…"
+            "description": "Vercel Agent guidance — dashboard and Slack chat, code review, production investigation, approved actions, and product…"
           },
           {
             "name": "vercel-cli",
