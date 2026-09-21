@@ -614,7 +614,7 @@
       }
     },
     "pstack": {
-      "sha": "032be146865d973682535de75f2287da438550bf",
+      "sha": "6ed0f7a9504f577d7529064103cecce9be7dfc5e",
       "components": {
         "agents": [
           {
@@ -901,8 +901,8 @@
       }
     },
     "stripe": {
-      "sha": "82d5d332c2eff45581030dcaf9f8ebabd28d0c88",
-      "version": "0.8.0",
+      "sha": "36287aa29d14988847d11ca0005eed93c7dc0ed9",
+      "version": "0.8.1",
       "components": {
         "agents": [
           {
