@@ -102,8 +102,8 @@
       }
     },
     "chrome-devtools": {
-      "sha": "6e53015a16423e3758a14d82c494cfcb4c07c3ea",
-      "version": "1.9.0",
+      "sha": "6a7e51fecaaefbea46b89e68892d42c175ee9163",
+      "version": "1.10.1",
       "components": {
         "mcpServers": [
           {
@@ -831,8 +831,8 @@
       }
     },
     "railway": {
-      "sha": "f974bbb9c1ab688e93d7d2c1d43b7ae162c931da",
-      "version": "1.5.1",
+      "sha": "ca21b2a1f9237163291a3a936b1cbb86752f4895",
+      "version": "1.5.5",
       "components": {
         "hooks": [
           {
@@ -901,8 +901,8 @@
       }
     },
     "stripe": {
-      "sha": "97b2164821c378f246c3903852057b36a8bd0296",
-      "version": "0.8.3",
+      "sha": "99ef7ddd24df10b78f2e0eba98c577349dd01611",
+      "version": "0.8.4",
       "components": {
         "agents": [
           {
