@@ -602,6 +602,24 @@
         ]
       }
     },
+    "octen": {
+      "sha": "5310f0d1225f37e98cc49f14d3caaa1b4dfb96c3",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "octen",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "octen-web",
+            "description": "Use Octen for web/news search, broad research, and clean URL extraction."
+          }
+        ]
+      }
+    },
     "omneky": {
       "version": "1.0.0",
       "components": {
